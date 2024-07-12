@@ -1,0 +1,12 @@
+# compiled output
+/api-gateway/dist
+/api-gateway/node_modules
+/api-gateway/build
+/api-gateway/.env.development
+
+# compiled output
+/microservice-users/dist
+/microservice-users/node_modules
+/microservice-users/build
+/microservice-users/.env.development
+
