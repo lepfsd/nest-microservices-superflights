@@ -10,3 +10,10 @@
 /microservice-users/build
 /microservice-users/.env.development
 
+# compiled output
+/microservice-passengers/dist
+/microservice-passengers/node_modules
+/microservice-passengers/build
+/microservice-passengers/.env.development
+
+.env
