@@ -66,6 +66,8 @@ services:
       - mongodb:/data/db
     expose:
       - 27017
+    ports:
+      - 27017:27017
     networks:
       - ms_nestjs
 
